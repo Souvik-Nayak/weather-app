@@ -2,7 +2,6 @@
   <a href="https://weather-app-e97.netlify.app/">
     <h2 align="center">Weatherify</h2>
   </a>
-<br>
 
 ## About The Project
 
